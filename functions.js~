@@ -70,7 +70,7 @@ function setProyectosContent()
   $("#content_list").toggle( "fade", function() {
     clearContent();
     appendProject('<b>Guacamaya</b> juego para android','img/guacamaya.png','https://github.com/Turupawn/FlappyGuacamaya','https://play.google.com/store/apps/details?id=rosalila.flappy.guacamaya2');
-    appendProject('<b>Space Shooter</b> juego para PC','img/space_shooter.png','https://github.com/Turupawn/FlappyGuacamaya','https://play.google.com/store/apps/details?id=rosalila.flappy.guacamaya2');
+    appendToContent('Programación 1 en Ceutec');
 
     $("#content_list").toggle( "fade" );
   });

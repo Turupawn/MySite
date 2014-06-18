@@ -10,7 +10,7 @@
 
 </head>  
 
-<body onload="setProyectosContent()">
+<body onload="setHomeContent()">
     <div id="wrapper">  
         <header>  
             <h1>Sitio web de Ahmed Castro (@Turupawn)</h1>

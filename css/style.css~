@@ -28,11 +28,6 @@ nav ul li a:hover {
     text-decoration: none;  
 }
 
-footer {
-    position: fixed;
-    bottom: 0;
-}
-
 /* page core */  
 div#core {  
     display: block;  
